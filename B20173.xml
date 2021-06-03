@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dove, with an olive-branch in its mouth, or, Gods mercy to sinful man delivered in a sermon at Great St. Helens London, March 15. 1662. by Ab. Cheesman ...</title>
+            <author>Cheesman, Ab., a minister blind from his child-hood.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20173</idno><idno type="EEBO-CITATION">18882278</idno>
+  <idno type="VID">205420</idno>
+  <idno type="EEBO-PROQUEST">2240886630</idno>
+  
+            <idno type="STC">Wing C3771</idno>
+            <idno type="OCLC">18882278</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20173)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205420)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1664:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dove, with an olive-branch in its mouth, or, Gods mercy to sinful man delivered in a sermon at Great St. Helens London, March 15. 1662. by Ab. Cheesman ...</title>
+                  <author>Cheesman, Ab., a minister blind from his child-hood.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Ephesians II, 4 --  Sermons.</term>
+               <term type="topical_term">God --  Mercy --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205420:1"/>
+            <pb facs="tcp:205420:2"/>
+            <p>THE DOVE, WITH AN Olive-Braunch In its Mouth; OR, GODS <hi>Mercy</hi> to <hi>Sinful</hi> MAN. Delivered in a <hi>SERMON</hi> at Great St. <hi>Helens</hi> London, <hi>March</hi> 15. 1662.</p>
+            <p>BY A B. CHEESMAN, A Minister Blind from his Child-hood.</p>
+            <p>LONDON, Printed for the Author, in the Year 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:205420:3"/>
+            <pb n="1" facs="tcp:205420:3"/>
+            <epigraph>
+               <q>
+                  <bibl>Ephes. 2. Verse 4<hi>th.</hi>
+                  </bibl>
+                  <p>But God who is rich in mercy, for his great love wherewith he loved us.</p>
+               </q>
+            </epigraph>
+            <p>THE Apostle in the fore-going Verses, lays down a five-fold Character that is agreeable to the condition of all men, while they continue in a Natural condition, First, They are <hi>dead in trespasses and sins;</hi> As a man that is dead in respect of his body can contribute nothing for the restitution of the life of his body: So those that are dead in re<g ref="char:EOLhyphen"/>spect of their Sins, they can contribute nothing for the resur<g ref="char:EOLhyphen"/>rection of their Souls; there is no Reasonable man will look for Health and Strength in the Grave. Secondly, <hi>They walk ac<g ref="char:EOLhyphen"/>cording to the course of the world;</hi> that is, they love to travel in the broad way where there is most company; here they conform themselves to the multitude. It is a certain sign of a Corrupt heart, when men think that any action may pass for Current coin, if they follow therein a General Custom. Thirdly, <hi>They obey Satan.</hi> All men whiles they continue in a state of Nature, they walk <hi>according to the Prince of the Air.</hi> Fourthly, <hi>They fulfill the desires of the flesh,</hi> and they live after the Flesh, not after the Spirit, they live as they list, they follow their own corrupt Imaginations. Fifthly, <hi>They are the Children of Wrath,</hi> they deserve to be tormented in Hell for ever, and they are every moment lyable to fall under the wrath of God; and this is the Condition of all Men and Women by Nature: <hi>But,</hi> saith the Apostle, <hi>God who is rich in mercy, for the great love where<g ref="char:EOLhyphen"/>with he loved us:</hi> Then he proceeds to shew the Dignity and Privilege to which those that belong to the election of grace in due time do attain through Christ. The Mercy of God is the main thing to which I will speak at this time, and the Doctrine is this,</p>
+            <pb n="2" facs="tcp:205420:4"/>
+            <p>
+               <hi>That God is exceeding Merciful,</hi> or, <hi>There are riches of Mer<g ref="char:EOLhyphen"/>cy in God.</hi>
+            </p>
+            <p>And this does signify Readiness in God to succour the crea<g ref="char:EOLhyphen"/>ture in distress; God has Compassion without any Passion; and here I shall give you divers particulars that God is exceeding Merciful; I shall begin with the first, That God is Merciful. And this will appear if we consider that his Mercy is of a spreading nature; the whole world is a large Volume written within and without with Characters of Mercy; the mercy of God is over all his works, he openeth the hand of Liberality and supplieth the want of every Creature; 'tis Mercy that calls down seasonable showers of Rain to refresh the Thirsty ground; 'tis Mercy that sends the Sun, with a load of Blessings, from one end of the world to the other; 'tis Mercy that cloaths the Fields with Grass, the Vallies with Corn, and the Spring with Flowers.</p>
+            <p n="2">2. It appears that God is Merciful, because he looks upon Mercy as his Glory; when <hi>Moses</hi> desired to have a sight of Gods Glory, <hi>God passed by him and proclaimed, The Lord, the Lord God, merciful and gracious, long suffering, and abundant in goodness and truth, keeping mercy for thousands, forgiving ini<g ref="char:EOLhyphen"/>quities and transgression and sin;</hi> God looks upon Mercy as the choicest thing that belongs to his Crown; Men oftentimes would be glad if they could find an opportunity to revenge and inflict their malice on them they have a Controversie with: but God he deals with sinners in a contrary way, he looks upon it as his Glory to pass over transgressions iniquities and sins.</p>
+            <p n="3">3. It will appear that God is exceeding Merciful, if we con<g ref="char:EOLhyphen"/>sider that he Delights in shewing Mercy, he doth not willingly afflict the Children of men, Judgement is his Strange work, Acts of Severity they are in a manner forced from God, he doth not punish till he is provoked by our sins, but Acts of Mercy are performed by him with Delight, because they are most suitable to his disposition; as the Bee that gives Honey naturally, but it does not sting but when it is forced; he had rather Quicken and make alive, than Kill and destroy; God had rather hold up, than overturn and make desolate; Justice never takes place un<g ref="char:EOLhyphen"/>less it be to revenge the quarrel of abused Mercy, like to the
+<pb n="3" facs="tcp:205420:4"/> Prince described by the Poet; thus God is swift to Reward, but slow to Punish. It is remarkable, God was longer in destroy<g ref="char:EOLhyphen"/>ing One City, than in building the Whole world, he created the World in six days, but he was seven days in accomplishing the destruction of <hi>Jerico;</hi> God had rather glorifie his Mercy in Saving of Sinners, than in the Punishing of them. <hi>Ezekiel;</hi> 3.11. <hi>Say unto them, As I love, saith the Lord God, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live: Turn ye, turn ye from your evil ways, for why will you dye O House of Israel?</hi> Here you see that God doth not delight in the destruction of Sinners, the Confirmation of it is with an Oath, and there is an Use of Exhortation, <hi>Turn ye, turn ye, why will ye dye O House of Israel?</hi> God he professeth that he <hi>hath no pleasure in the death of a Sinner.</hi> And if it be Objected as it is in the 1. of <hi>Proverbs,</hi> and the 26. Verse, <hi>I will laugh at their Calamity, I will mock when their fear cometh,</hi> I answer, the Death of a Sinner may be considered two ways, as it is an Act of Justice to punish a wilfull breach of the Law, and then he doth delight in the Death of a Sinner, but otherwise he doth not delight in the Sinners destruction.</p>
+            <p n="4">4. It appeareth that God is merciful, because he oftentimes suffers other Attributes to be at a loss when he shews mercy, namely his Justice and Faithfulness. First in his Justice, it doth often darken that in pardoning wilful sinners; Wicked men are apt to think that God doth not take notice of their evil ways, therefore they confidently walk on in vain courses, and because God is slow in Punishing, therefore they are bold in Sinning.</p>
+            <p>Secondly, God oftentimes seems to forget his faithfulness, by shewing mercy, 3. <hi>Jonas</hi> 4. there <hi>Jonas</hi> is sent with this Mes<g ref="char:EOLhyphen"/>sage, <hi>Yet forty days and Nineve shall be destroyed,</hi> but take notice, they believed the words of the Prophet, and accordingly pro<g ref="char:EOLhyphen"/>claimed a solemn Fast, and they humbled themselves greatly be<g ref="char:EOLhyphen"/>fore the Lord; but what follows? God gave a Commission to the Angel to put up his Sword, and so they were delivered from ensuing dangers. God had sent a threatning message to King <hi>Ahab</hi> by his Prophet, but because he <hi>humbled himself, God re<g ref="char:EOLhyphen"/>pented of the evil he thought to bring upon him.</hi> So in the 18. of <hi>Jerem.</hi> the 7 and 8 Verses, <hi>At what instant I shall speak concern<g ref="char:EOLhyphen"/>ning
+<pb n="4" facs="tcp:205420:5"/> a Nation, and concerning a Kingdom, to pluk up, and to put down, and to destroy it; if that Nation against whom I have pro<g ref="char:EOLhyphen"/>nounced, turn from their evil, I will repent of the evil that I thought to do unto them.</hi> And because this place of Scripture is so excel<g ref="char:EOLhyphen"/>lent to the purpofe, I shall crave a little time to insist on it.</p>
+            <p>First, There are special times wherein God will punish sin<g ref="char:EOLhyphen"/>ners, for those Iniquities that are committed amongst them.</p>
+            <p>Secondly, The time will come wherein God is resolved to punish a people, but yet he will not strike, till first he speaks and gives a timely warning, <hi>at what instant I shall speak concern<g ref="char:EOLhyphen"/>ing a Nation, to pluck up, and destroy.</hi>
+            </p>
+            <p>And, Thirdly it is observable, That when a people turns from their evil ways, and repent of their evil doings, whereby they have provoked God to anger, he will repent him of the evil he thought to do to them.</p>
+            <p>But it may be objected, Doth God alter his Decrees? there is no such matter; You may see in the 6. of <hi>Zacharie,</hi> and the 1. Verse, there the Prophet sees four Chariots coming forth from between the two Mountains of Brass; the four Chariots signifie Angels sent forth into the world, to shew unto men several dispensations of God; and the two Mountains of Brass, do signifie the firmness and stability of Gods Decrees; the De<g ref="char:EOLhyphen"/>crees of God are unchangeable; Men often repent of their acti<g ref="char:EOLhyphen"/>ons, because of some inconveniency that is in them, but now God, by vertue of his Omnisciency, having a full sight of all things that shall come to pass, he cannot repent, so as to con<g ref="char:EOLhyphen"/>demn his own righteous counsels, and therefore you have it in the 23. of <hi>Numbers,</hi> and the 19. Verse, <hi>God is not a man, that he should lye, nor the Son of man, that he should repent: hath he said, and shall he not do it? or he spoken, and shall he not make it good?</hi> God is infinitely wise in all his determinations, and it were blasphemy to think that God will disapprove that which he hath decreed originally. God is said to repent in Scripture in his Attributes, and seeming to imitate mens actions he is said to repent, but the Acts of God they are eminent Acts of God, they stand like the Laws of the <hi>Medes</hi> and <hi>Persians,</hi> that alter not: God sometimes willeth indeed a Change, but never chan<g ref="char:EOLhyphen"/>ges
+<pb n="5" facs="tcp:205420:5"/> his Will, and to this purpose saith St. <hi>Bernard,</hi> God doth sometimes change a Sentence he hath pronounced, but never changes the Counsel he hath decreed. And thus much for the fourth particular, God doth often shew mercy to the seeming loss of his Justice and Faithfulness.</p>
+            <p n="5">5. It appears that God is merciful, because he invites sinners to accept of Life and Happiness, as it is in the 11. of St <hi>Matth.</hi> and the 28 Verse, <hi>Come unto me all ye that labour, and are heavy laden, and I will give you rest;</hi> and in the 55. of <hi>Esay,</hi> and 1. Verse, <hi>Ho, every one that thirsteth, come ye to the waters, and he that hath no money: come ye, buy and eat, yea, come, buy Wine and Milk without money, and without price.</hi> And oh that sinners would but take notice of the bowels of Christ, that are yearn<g ref="char:EOLhyphen"/>ing towards them! how often, through the foolish obstinacy of a perverse heart, have you refused the offers of Grace, Life, and Salvation! and yet behold a door of mercy is set open, and you are solemnly invited to enter in; if God were not merci<g ref="char:EOLhyphen"/>ful, he would not knock at the doors of sinners hearts so as he doth.</p>
+            <p n="6">6. He doth not only give Invitations to sinners, but he doth exercise a great deal of patience and forbearance towards them, he patiently waits upon them during the time of their Impeni<g ref="char:EOLhyphen"/>tency, and yet bears the wrong that is done to him. If a man had the meekness of all the Angels in Heaven, and all the Saints on Earth, and did sit in Gods place but for one hour, he would soon turn the world to ruine and desolation, as St. <hi>Cyprian</hi> speaks. The patience of God is greatly to be wondred at, if we consider that God is acquainted with all the sins of all men in the world, his patience doth not proceed out of Ignorance, he knoweth the hearts of all his Creatures, and takes notice of their wicked actions, there is nothing hid from him, he knows the secrets of all hearts; and further, he doth not only know the wickedness that is in the world, but he hates it, and he hath power enough to revenge it; 'tis not for want of power, that he doth exercise so much patience. And thus much for the demonstration of the Point, I shall only make some Uses, and so conclude.</p>
+            <pb n="6" facs="tcp:205420:6"/>
+            <p n="1">
+               <hi>Use</hi> 1. Is to the people of God, Oh be perswaded, and prevailed with, by the riches of mercy that are in God. There are divers. Seasons of Mercy.</p>
+            <p n="1">1. There is Preventing mercy. God finds his people in a state of Nature with other men, he finds them Children of Wrath, and he makes them Vessels of Ho<g ref="char:EOLhyphen"/>nour, He comes to them when they are not able to Pitty themselves. That is Preventing mercy; and then there is</p>
+            <p n="2">2. Pardoning mercy. God is willing to pass by the Iniquities of his People; though they have been full of reproachings and backslidings against him, yet he is wil<g ref="char:EOLhyphen"/>ling to take and receive them again; God doth so for<g ref="char:EOLhyphen"/>give, as that they shall be fully delivered from Con<g ref="char:EOLhyphen"/>demnation. All the Afflictions that do befall the Chil<g ref="char:EOLhyphen"/>dren of God in this life, are not in regard of the satisfaction of Gods Justice, but to Purify them, as he is pure.</p>
+            <p>Thirdly, There is Directing mercy in God. He will not let his People to take a step in the dark; he will be to them a Piller of fire, leading them in the wilderness of this World.</p>
+            <p n="4">4. There is Providing mercy in God. He will cer<g ref="char:EOLhyphen"/>tainly provide for his own Children, he will give them such a portion of Outward things, as he knows to be most needful for them; he will give them what they want, though not always what they wish; rather than Gods Children shall want, he will cause Water to come out of the stony Rocks, and the Clouds to rain down Bread in the Wilderness, and will not fail to give them a seasonable Supply in all times of their need.</p>
+            <p n="5">5. There is Protecting mercy in God. He leads them to their Chambers of Preservation, in the midst of Ruine and Desolation.</p>
+            <p n="6">6. There is Crowning mercy in God. Oh often medi<g ref="char:EOLhyphen"/>tate upon that. He will put a Crown of never-fading
+<pb n="7" facs="tcp:205420:6"/> Blessedness on his Childrens heads, they shall have an exceeding, surpassing, eternal weight of Glory; they shall have a Sea of Honey, for every Crum of Gaul. How happy will it be for them, when they shall be laid up in the sure imbracing arms of Jesus Christ, when they shall never have sin in their souls, nor sin in their pre<g ref="char:EOLhyphen"/>sence.</p>
+            <p n="2">2. Observe the Malignant nature of Sin, that can cause Wrath in the bosome of a Merciful God. Were it not for Sin, God would be continually smiling upon his Crea<g ref="char:EOLhyphen"/>tures. Certainly never an Arrow that is shot against us in a way of Suffering, but we have shot it up in a way of Sinning. Labour therefore to receive those Mercies from God, which may draw your hearts nearer to God. God is most liberal in bestowing great mercies, that with earnestness of soul we shall beg of him; As for mercies of the left hand, they are mercies that the best of Gods Children may want, and the worst of sinners may have; therefore take heed of murmuring; God is merciful, there<g ref="char:EOLhyphen"/>fore we are not to murmure at his Docrees; God is not to give an account of any of his Actions to his Creatures. I remember that of <hi>Austin,</hi> As none can lawfully com<g ref="char:EOLhyphen"/>prehend, so none can justly reprehend the Justice of God.</p>
+            <p n="2">2. Do not murmure at the Laws of God. Men are subject to think that Gods Laws are too strict and precise, or too narrow, they would have it a broader way: but remember, that the Laws that we are bound to make our rule to walk by, are the Laws of a merciful God, and there is none of them but it is for the Glory of the Crea<g ref="char:EOLhyphen"/>tor, and God of the Creature to keep.</p>
+            <p n="3">3. Do not murmur at the Providence of God. Faith and Patience, Humility and Heavenly mindedness, these are most sweet in time of Affliction; and though God be exceeding merciful, yet we must take heed that we abuse not this Mercy, as <hi>Tertullian</hi> speaks, Mercy improved will open the surest, so Mercy abused will pull down the sorest Judgement; the Mercy of God, if we lay hold of
+<pb n="8" facs="tcp:205420:7"/> it by Faith and Repentance, it will appear our sweetest Friend, but if we neglect it, it will become our greatest Enemy; if Mercy be thy Accuser at the Last Day, who wilt thou have an Advocate for thee? That Fury that doth arise from Abused Mercy it is dreadful and intollerable, that Mercy thou neglectest now in the time of thy health, if thou shalt continue therein; none shall be more dread<g ref="char:EOLhyphen"/>fully tormented in Hell than they that have trifled away the choicest opportunity of Mercy. Oh, seeing God doth lead thee with Cords of Love, let Mercy prevail with thee to return unto the Lord, for if the White Flag be drawn in, the Bloody Flag will be set up, and if the Spi<g ref="char:EOLhyphen"/>rit of Grace be neglected, it will turn to a Rod of Iron at last, and break thee in pleces like a Potters Vessel. And so much shall serve for this time.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
